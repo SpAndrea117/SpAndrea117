@@ -58,6 +58,5 @@
 <br />
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SpAndrea117&theme=github_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SpAndrea117&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SpAndrea117&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpAndrea117&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
