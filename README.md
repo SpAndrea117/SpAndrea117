@@ -31,7 +31,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />](https://www.html.it/guide/guida-javascript-di-base/)
 [<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />](https://www.typescriptlang.org/)
 </br>
-#### Frameworks&Tools
+#### FRAMEWORKS&TOOLS
 [<img align="left" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" />](https://angular.io/)
 [<img align="left" alt="EdgeX" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/08/EdgeX_logo.png" />](https://www.edgexfoundry.org/)
 [<img align="left" alt="Kubernetes" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" />](https://kubernetes.io/it/docs/concepts/overview/what-is-kubernetes/)
