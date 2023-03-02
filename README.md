@@ -60,4 +60,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SpAndrea117&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SpAndrea117&theme=github_dark)
 
-
+![](https://github-readme-stats-neon-beta-40.vercel.app/api/top-langs/?username=SpAndrea117&theme=github_dark&hide_border=true&langs_count=15&count_private=true)
