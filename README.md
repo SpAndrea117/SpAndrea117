@@ -37,7 +37,7 @@
 [<img align="left" alt="Kubernetes" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" />](https://kubernetes.io/it/docs/concepts/overview/what-is-kubernetes/)
 [<img align="left" alt="Docker" width="26px" src="https://cdn.worldvectorlogo.com/logos/docker.svg" />](https://www.docker.com/)
 [<img align="left" alt="Grafana" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg" />](https://grafana.com/)
-[<img align="left" alt="Helm" width="26px" src="https://cncf-branding.netlify.app/img/projects/helm/horizontal/color/helm-horizontal-color.svg" />](https://helm.sh/)
+[<img align="left" alt="Helm" width="26px" src="[https://cncf-branding.netlify.app/img/projects/helm/horizontal/color/helm-horizontal-color.svg](https://p7.hiclipart.com/preview/610/201/261/kubernetes-docker-helmsman-software-repository-package-manager-gladiator-logo.jpg)" />](https://helm.sh/)
 [<img align="left" alt="Bash" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />](https://wiki.ubuntu-it.org/Programmazione/LinguaggioBash)
 [<img align="left" alt="MQTT" width="26px" src="https://github.com/mqtt/mqttorg-graphics/blob/master/svg/mqtt-icon-transparent.svg" />](https://www.hivemq.com/)
 </br>
